@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Have an idea? Use this template!
 title: ''
 labels: enhancement
 assignees: the-broz
